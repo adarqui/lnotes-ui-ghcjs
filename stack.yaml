@@ -12,7 +12,7 @@ flags: {}
 # allow-newer: true
 
 # https://docs.haskellstack.org/en/stable/ghcjs/
-resolver: lts-8.5
+resolver: lts-7.19
 compiler: ghcjs-0.2.1.9007019_ghc-8.0.1
 compiler-check: match-exact
 
