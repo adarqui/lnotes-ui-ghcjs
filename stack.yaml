@@ -56,7 +56,7 @@ packages:
 - ../haskell-ifte
 - ../haskell-web-bootstrap
 - ../ghcjs-router
-- ../ghcjs-ajax/ghcjs-ajax
+  #- ../ghcjs-ajax/ghcjs-ajax
 - ../react-flux-router
 - ../web-routes ## <-- remove if PR gets accepted
 
